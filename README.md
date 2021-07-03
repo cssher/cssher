@@ -24,4 +24,4 @@
   <div align="center">
    <img src="./code.gif" margin=10 align="center" alt="Coder GIF" width="480" height="300">
   </div>
-  
+
