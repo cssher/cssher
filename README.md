@@ -1,5 +1,5 @@
 <span align="left">
- <h3>Hi there, I am Syed 👨‍💻 </h3>
+ <h3>Hi there, I'm Syed 👨‍💻 </h3>
  
  <p>I'm a Full Stack Web Developer based in Kolkata, INDIA. I enjoy creating things that live on the internet. My goal is to always build products that provide pixel-perfect, performant experiences.</p>
  <h4> 💬 Ask me about anything, anytime 😄 </h4>
