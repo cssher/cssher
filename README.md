@@ -8,7 +8,9 @@ You can view my [portfolio](https://cssher.github.io/syed-dev/) or download my r
  <h4> 💬 Do ping me for challenging opportunities, code collabs, feedbacks or just casual discussion. Happy to connect, anytime 😄 </h4>
  
 Connect with me on [LinkedIn](https://linkedin.com/in/syedsher)
+ <br />
 Drop me a mail at [sherali2910.sa@gmail.com](mailto:sherali2910.sa@gmail.com)
+ <br />
 DM me on [twitter](https://twitter.com/sheralifar).
 
 </span>
