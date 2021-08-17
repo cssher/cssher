@@ -28,7 +28,7 @@ DM me on [twitter](https://twitter.com/sheralifar).
    <img align="center" margin=10  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssher&count_private=true&theme=light&layout=compact">
  
  
-<br />
+<br /><br />
 
   <div align="center">
    <img src="./code.gif" margin=10 align="center" alt="Coder GIF" width="480" height="300">
