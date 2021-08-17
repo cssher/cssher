@@ -20,13 +20,10 @@ DM me on [twitter](https://twitter.com/sheralifar).
  
  <div align="center" display="flex" href="https://github.com/syedshamsher">
  
- 
-<br />
- 
  <img align="center" margin=10 src="https://github-readme-stats.vercel.app/api?username=cssher&title_color=fff&text_color=fff&show_icons=true&count_private=true&bg_color=130,5d37c5,0e1eaa,319197&include_all_commits=true" alt="Syed's github stats" />
  
  
-<br />
+<br /><br />
  
    <img align="center" margin=10  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssher&count_private=true&theme=light&layout=compact">
  
