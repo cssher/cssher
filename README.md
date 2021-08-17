@@ -1,13 +1,15 @@
-<span align="left">
- <h3>Hi there, I'm Syed 👨‍💻 </h3>
- 
- <p>I'm a Full Stack Web Developer based in Kolkata, INDIA. I enjoy creating things that live on the internet. My goal is to always build products that provide pixel-perfect, performant experiences.</p>
- <h4> 💬 Ask me about anything, anytime 😄 </h4>
- 
 
-[![linkedin](https://user-images.githubusercontent.com/51695282/129673042-47980cfa-e5b9-41be-a84e-4f469b7c5c3b.png)](https://linkedin.com/in/syedsher)
-[![](https://img.icons8.com/material-two-tone/32/000000/gmail.png)](mailto:sherali2910.sa@gmail.com)
-[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://cssher.github.io/syed-dev/)
+<span align="left">
+ <h3>Hello there, I'm Syed 👨‍💻 </h3>
+ 
+ I'm a Frontend Engineer based in India. I enjoy creating rich experiences for the web. JavaScript, React and the overall frontend ecosystem is what I like to talk about in general. I am always up for collaborations and pair programming.
+
+You can view my [portfolio](https://cssher.github.io/syed-dev/) or download my resume to better look into my professional acumen. 
+ <h4> 💬 Do ping me for challenging opportunities, code collabs, feedbacks or just casual discussion. Happy to connect, anytime 😄 </h4>
+ 
+Connect with me on [LinkedIn](https://linkedin.com/in/syedsher)
+Drop me a mail at [sherali2910.sa@gmail.com](mailto:sherali2910.sa@gmail.com)
+DM me on [twitter](https://twitter.com/sheralifar).
 
 </span>
  
