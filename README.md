@@ -4,7 +4,8 @@
  <p>I'm a Full Stack Web Developer based in Kolkata, INDIA. I enjoy creating things that live on the internet. My goal is to always build products that provide pixel-perfect, performant experiences.</p>
  <h4> 💬 Ask me about anything, anytime 😄 </h4>
  
-[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/syedsher)
+
+[![linkedin](https://user-images.githubusercontent.com/51695282/129673042-47980cfa-e5b9-41be-a84e-4f469b7c5c3b.png)](https://linkedin.com/in/syedsher)
 [![](https://img.icons8.com/material-two-tone/32/000000/gmail.png)](mailto:sherali2910.sa@gmail.com)
 [![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://cssher.github.io/syed-dev/)
 
